@@ -6,9 +6,7 @@
   ## Table of Contents
   -[Description](#description)
   -[Installation](#installation)
-  -[Usage](#usage)![Screenshot (28)](https://user-images.githubusercontent.com/82062612/138203023-81177e2b-266e-4f00-805c-17156110ff40.png)
-![Screenshot (29)](https://user-images.githubusercontent.com/82062612/138203038-9ae3a001-31e4-4688-8dda-0d79ab124209.png)
-
+  -[Usage](#usage)
   -[Additional Info](#addition-info)
 
   ## Description:
