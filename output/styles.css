@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+    background-color:aquamarine;
+    color: aquamarine;
+}
+h1{
+    font-family: "Serif";
+    font-size: 45px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+span{
+    opacity: 0.5;
+}
+
+.jumbotron {
+    background:blanchedalmond;
+}
+
+.employee-card {
+    box-shadow: 5px 3px 1px #a3c7e7;
+}
+
+.card-header{
+    background: cadetblue;
+}
+
+.card-body{
+    color:darkcyan;
+}
+
+a{
+    color: dodgerblue;
+}
+
+a:hover {
+    color: mediumblue;
+    text-decoration: none;
+    text-transform: uppercase;
+}
